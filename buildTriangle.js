@@ -24,4 +24,4 @@ function buildTriangle(x){
   return triangle;
 }
 
-console.log(buildTriangle(10));
+console.log(buildTriangle(10)); 7yy
